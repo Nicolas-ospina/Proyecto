@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(126, 182, 182);
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+h1 {
+    
+    color: navy;
+    text-align: center;
+}
+
+.intro {
+    color: darkgreen;
+}
+
+a:hover {
+    color: orange;
+}
+
+#contenido {
+    padding: 20px;
+    border: 1px solid #b83636;
+    margin: 20;
+    margin-top: 2%;
+    border-width: 10x 10px 4px 4px;
+    
+}
+
+.dentro {
+    color: bisque;
+}
+
+.letra {
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500px;
+    font-style: normal;
+  }
+
+  .foto {
+    
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
